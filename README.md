@@ -6,7 +6,7 @@ A [Blockly](https://developers.google.com/blockly) app to easily do generative t
 
 ## Quick Start
 
-🇫🇷 The easiest way is to use it online [for English speaking people](https://loic-fejoz.github.io/blockly-for-tracery?hl=en). Use bookmarks from your browser to save your art.
+🇬🇧 The easiest way is to use it online [for English speaking people](https://loic-fejoz.github.io/blockly-for-tracery?hl=en). Use bookmarks from your browser to save your art.
 
 🇫🇷 Le plus simple est de l'utiliser en ligne [pour les francophones](https://loic-fejoz.github.io/blockly-for-tracery?hl=fr). Utilisez les favoris de votre navigateur pour enregistrer votre art.
 
